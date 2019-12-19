@@ -32,6 +32,10 @@ class Myfunc
   {
     this.model  = model;
   }
+  multify(x,y)
+  {
+      return x*y;
+  }
 
 }
 
